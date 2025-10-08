@@ -2,9 +2,17 @@
 
 # team member roles
 
-principal-investigator:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+full-professor:
+  icon: fa-regular fa-id-card
+  description: Full Professor
+
+associate-professor:
+  icon: fa-regular fa-address-card
+  description: Associate Professor
+
+assistant-professor:
+  icon: fa-regular fa-id-badge
+  description: Assistant Professor
 
 postdoc:
   icon: fa-solid fa-glasses
@@ -18,9 +26,9 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+fellow:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Research Fellow
 
 mascot:
   icon: fa-solid fa-dog
