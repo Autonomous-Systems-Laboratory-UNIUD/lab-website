@@ -1,6 +1,6 @@
 ---
 name: Denis Tavaris
-image: images/photo.jpg
+image: images/denis-tavaris.jpeg
 role: phd
 affiliation: University of Udine
 aliases:

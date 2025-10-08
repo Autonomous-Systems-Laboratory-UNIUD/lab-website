@@ -1,6 +1,6 @@
 ---
 name: Gian Luca Foresti
-image: images/photo.jpg
+image: images/gianluca-foresti.jpg
 role: full-professor
 affiliation: University of Udine
 aliases:

@@ -1,9 +1,9 @@
 ---
 ---
 
-# Autonomous-Systems-Laboratory-UNIUD's Website
+# Autonomous Systems
 
-An engaging 1-3 sentence description of your lab.
+The laboratory of the University of Udine dedicated to the research of software solutions for autonomous systems, from computer vision to fleet cordination.
 
 {% include section.html %}
 
