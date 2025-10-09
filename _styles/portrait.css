@@ -69,10 +69,8 @@
 }
 
 .portrait[data-style=tiny] .portrait-description,
+.portrait[data-style=tiny] .portrait-group,
 .portrait[data-style=tiny] .portrait-affiliation {
-  display: none;
-}
-.portrait[data-style=tiny] .portrait-group {
   display: none;
 }
 
