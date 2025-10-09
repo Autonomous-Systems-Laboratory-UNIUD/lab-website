@@ -26,7 +26,7 @@ Our research and publications
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/rules.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ The projects we've been involved in.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/late_fusion_ir.jpg"
   link="projects"
   title="Our Projects"
   flip=true
