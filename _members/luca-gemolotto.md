@@ -3,6 +3,7 @@ name: Luca Gemolotto
 image: images/photo.jpg
 role: phd
 affiliation: University of Udine
+group: ChAoS
 aliases:
   - L. Gemolotto
   - L Gemolotto

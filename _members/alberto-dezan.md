@@ -3,6 +3,7 @@ name: Alberto De Zan
 image: images/photo.jpg
 role: fellow
 affiliation: University of Udine
+group: Vision
 aliases:
   - A. De Zan
 links:

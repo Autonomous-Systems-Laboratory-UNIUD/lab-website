@@ -1,7 +1,7 @@
 ---
 title: Thesis
 nav:
-  order: 1
+  order: 4
   tooltip: Thesis proposals
 ---
 

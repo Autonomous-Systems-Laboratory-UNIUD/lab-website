@@ -3,6 +3,7 @@ name: Denis Tavaris
 image: images/denis-tavaris.jpeg
 role: phd
 affiliation: University of Udine
+group: Vision
 aliases:
   - D. Tavaris
   - D Tavaris

@@ -11,7 +11,7 @@ The laboratory of the University of Udine dedicated to the research of software 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research and publications
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The projects we've been involved in.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See the people making our our team.
 
 {%
   include button.html
@@ -87,7 +87,7 @@ Our proposals for thesis and internships
 {%
   include button.html
   link="thesis"
-  text="Thesis proposals"
+  text="See our proposals"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -100,5 +100,7 @@ Our proposals for thesis and internships
   image="images/photo.jpg"
   link="thesis"
   title="Proposals"
+  flip=true
+  style="bare"
   text=text
 %}
