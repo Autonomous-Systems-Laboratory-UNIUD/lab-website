@@ -26,3 +26,19 @@
   tags:
     - abu
     - robot coordination
+- title: Detection via Vocal Commands
+  group: vision
+  description: Integrating HoloYOLO with vocal commands for detect specific objects.
+  tags:
+    - computer vision
+    - augmented reality
+    - hololens
+    - yolo
+- title: HoloLens & YOLO
+  group: vision
+  description: Adapting current vision project to work with a Gen2 HoloLens.
+  tags:
+    - computer vision
+    - augmented reality
+    - hololens
+    - yolo
