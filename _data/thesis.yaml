@@ -1,0 +1,28 @@
+- title: AbU simulator
+  description: Development of a simulator with a graphical interface for Event-Condition-Action powered distributed systems using with Attribute-based Communication.
+  group: chaos
+  tags:
+    - abu
+    - robot coordination
+- title: AbU applications
+  description: Applications of AbU to our drone fleet for modeling and coordination.
+  group: chaos
+  tags:
+    - abu
+    - robot coordination
+    - modeling
+    - applications
+- title: AbU analysis
+  description: Analysis of the performance of AbU systems.
+  group: chaos
+  tags:
+    - abu
+    - robot coordination
+    - modeling
+    - theory
+- title: Other
+  group: chaos
+  description: More things about coordination, if you have a proposal, feel free to reach out.
+  tags:
+    - abu
+    - robot coordination

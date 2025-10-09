@@ -79,3 +79,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+{% capture text %}
+
+Our proposals for thesis and internships
+
+{%
+  include button.html
+  link="thesis"
+  text="Thesis proposals"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="thesis"
+  title="Proposals"
+  text=text
+%}
