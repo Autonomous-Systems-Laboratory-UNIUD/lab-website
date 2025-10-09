@@ -32,9 +32,9 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group also features two specialized teams:
+- Vision: Dealing with computer visions applications to UAVs and robotic domains.
+- ChAoS (Choreographies of Autonomous Systems): Researching formal control and coordination tecniques for fleets of robots.
 
 {% include section.html %}
 
