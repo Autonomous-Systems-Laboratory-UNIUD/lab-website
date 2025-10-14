@@ -1,22 +1,24 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: AbU-ROS
+  subtitle: An ECA rule based meta language for programming swarm choreographies with ROS2
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/abu.jpg
+  link: https://github.com/Autonomous-Systems-Laboratory-UNIUD/AbU-ROS
+  description: AbU-ROS is a Golang-based framework programming swarm choreographies with ROS2 using Event-Condition-Action rules. It features modules for all the main ArduPilot versions (Copter, Sub, Rover).
+  repo: Autonomous-Systems-Laboratory-UNIUD/AbU-ROS
   tags:
-    - resource
+    - DSL
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: ROSetta
+  subtitle: Enabling MAVLink communication on ROS2
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/ROSetta.png
+  link: https://github.com/Autonomous-Systems-Laboratory-UNIUD/ROSetta
+  description: ROSetta is a translation layer between MAVLink-based autopilot systems, such as ArduPilot and ROS2. It is currently in experimental development.
+  repo: Autonomous-Systems-Laboratory-UNIUD/ROSetta
   tags:
-    - resource
+    - middleware
+    - ROS
+    - MAVLink
 
 - title: Cool Tutorial
   subtitle: a subtitle
