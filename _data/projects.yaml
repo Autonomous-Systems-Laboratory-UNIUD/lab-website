@@ -1,7 +1,7 @@
 - title: AbU-ROS
   subtitle: An ECA rule based meta language for programming swarm choreographies with ROS2
   group: featured
-  image: images/abu.jpg
+  image: images/abu.png
   link: https://github.com/Autonomous-Systems-Laboratory-UNIUD/AbU-ROS
   description: AbU-ROS is a Golang-based framework programming swarm choreographies with ROS2 using Event-Condition-Action rules. It features modules for all the main ArduPilot versions (Copter, Sub, Rover).
   repo: Autonomous-Systems-Laboratory-UNIUD/AbU-ROS
