@@ -30,19 +30,24 @@ nav:
 
 
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/chaos_background.svg" dark=true %}
 
-Our group also features two specialized teams:
-- Vision: Dealing with computer visions applications to UAVs and robotic domains.
-- ChAoS (Choreographies of Autonomous Systems): Researching formal control and coordination tecniques for fleets of robots.
+# ChAoS
+The Choreographies of Autonomous Systems (ChAoS) team works on researching innovative and effective ways to coordinate swarms of autonomous systems. Our work ranges from modelling, to the definition of formal languages to the verification of their properties.
+
+{% include section.html background="images/chaos_background.svg" dark=true %}
 
 {% include section.html %}
 
+# Vision
+
+The Vision teams implements and research new ways to combine autonomous systems and computer vision, with a focus on multispectral images
+and aerial drones.
+
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/night_ir.png" %}
+{% include figure.html image="images/late_fusion_ir.jpg" %}
 
 {% endcapture %}
 
