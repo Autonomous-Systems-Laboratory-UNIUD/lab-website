@@ -5,6 +5,7 @@ role: phd
 affiliation: University of Udine
 group: ChAoS
 aliases:
+  - Luca Gemolotto
   - L. Gemolotto
   - L Gemolotto
   - Gemolotto Luca

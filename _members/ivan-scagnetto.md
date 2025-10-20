@@ -4,6 +4,7 @@ image: images/ivan_scagnetto.png
 role: assistant-professor
 affiliation: University of Udine
 aliases:
+  - Ivan Scagnetto
   - I. Scagnetto
   - Scagnetto I.
   - Scagnetto Ivan

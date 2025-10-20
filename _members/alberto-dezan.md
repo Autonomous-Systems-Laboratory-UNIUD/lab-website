@@ -5,7 +5,11 @@ role: fellow
 affiliation: University of Udine
 group: Vision
 aliases:
+  - Alberto De Zan
   - A. De Zan
+  - A De Zan
+  - De Zan A.
+  - De Zan Alberto
 links:
 ---
 

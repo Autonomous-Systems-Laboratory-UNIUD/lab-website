@@ -5,6 +5,7 @@ role: phd
 affiliation: University of Udine
 group: Vision
 aliases:
+  - Denis Tavaris
   - D. Tavaris
   - D Tavaris
   - Tavaris D.
