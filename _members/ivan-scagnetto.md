@@ -5,6 +5,8 @@ role: assistant-professor
 affiliation: University of Udine
 aliases:
   - I. Scagnetto
+  - Scagnetto I.
+  - Scagnetto Ivan
 links:
   website: https://users.dimi.uniud.it/~ivan.scagnetto/
   orcid: 0000-0003-3206-2719

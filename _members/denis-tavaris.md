@@ -7,6 +7,8 @@ group: Vision
 aliases:
   - D. Tavaris
   - D Tavaris
+  - Tavaris D.
+  - Tavaris Denis
 links:
 ---
 

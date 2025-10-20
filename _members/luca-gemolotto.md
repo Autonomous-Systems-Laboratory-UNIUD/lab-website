@@ -7,6 +7,8 @@ group: ChAoS
 aliases:
   - L. Gemolotto
   - L Gemolotto
+  - Gemolotto Luca
+  - Gemolotto L.
 links:
   home-page: https://lucagemolotto.github.io
   orcid: 0009-0009-4303-1417
