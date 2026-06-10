@@ -7,6 +7,12 @@ The laboratory of the University of Udine dedicated to the research of software 
 
 {% include section.html %}
 
+## News
+
+{% for item in site.data.news %}
+- **{{ item.date }}** — {{ item.text }}
+{% endfor %}
+
 ## Highlights
 
 {% capture text %}

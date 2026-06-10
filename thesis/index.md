@@ -9,6 +9,8 @@ nav:
 
 Here we have some proposals for thesis and internships to be done in our laboratory, all centered around autonomous systems.
 
+IMPORTANT: After a prolonged period with no contact, projects may be reassigned!
+
 # ChAoS
 {% include list.html component="card" data="thesis" filter="group == 'chaos'" %}
 

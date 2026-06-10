@@ -1,5 +1,5 @@
-- title: AbU simulator
-  description: Development of a simulator with a graphical interface for Event-Condition-Action powered distributed systems using with Attribute-based Communication.
+- title: AbU - DJI
+  description: Integration of AbU with DJI drones for improved coordination and autonomy.
   group: chaos
   tags:
     - abu
@@ -26,6 +26,12 @@
   tags:
     - abu
     - robot coordination
+- title: AbU - Website
+  description: Development of simple static website to showcase AbU and its applications.
+  group: chaos
+  tags:
+    - abu
+    - web-development
 - title: Detection via Vocal Commands
   group: vision
   description: Integrating HoloYOLO with vocal commands for detect specific objects.
@@ -42,3 +48,21 @@
     - augmented reality
     - hololens
     - yolo
+- title: Underwater distance estimation
+  group: vision
+  description:     Study and development of a model to achieve monofocal distance estimation with underwater low-light RGB sensors. Using Apple Depth Pro or similar models and possible sensor fusion with sonar data.
+  tags:
+    - computer vision
+    - underwater robotics
+- title: Classification and segmentation of underwater plants
+  group: vision
+  description: Classification and segmentation of underwater plants (phanerogams) captured by multispcectral cameras.
+  tags:
+    - computer vision
+    - underwater robotics
+- title: Charging Station Detection
+  group: vision
+  description: Development of a model to detect charging stations for aerial vehicles using RGB cameras, to aid in autonomous landing and recharging.
+  tags:
+    - computer vision
+    - underwater robotics
